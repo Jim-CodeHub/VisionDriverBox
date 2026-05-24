@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/icons/State_CapMode.ico</file>
+        <file>src/icons/State_Offline.ico</file>
+        <file>src/icons/State_RunningA.ico</file>
+        <file>src/icons/State_RunningB.ico</file>
+        <file>src/icons/State_RunningC.ico</file>
+        <file>src/icons/State_Standby.ico</file>
+    </qresource>
+</RCC>
